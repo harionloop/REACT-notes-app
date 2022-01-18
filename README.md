@@ -1,7 +1,7 @@
 # Getting Started with this React App
 
 #### Clone the app with git clone or download it...
-#### Install node in your sytem...
+#### Install node in your system...
 #### cd into this app directory and type `npm install` in cli
 
 #### for starting app at local host do...
@@ -11,4 +11,5 @@
 
 ### `npm run build`
 
-# Screen Shots
+# Screen Shots:
+![Intial](/public/appss0.png)
