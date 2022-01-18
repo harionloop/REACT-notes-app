@@ -12,4 +12,7 @@
 ### `npm run build`
 
 # Screen Shots:
+#### Initial:
 ![Intial](/public/appss0.png)
+#### Final:
+![Intial](/public/appss1.png)
